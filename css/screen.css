@@ -1,0 +1,41 @@
+body{
+	font-family: "Times New Roman", Times, serif;
+	width: 960px;
+	background: PeachPuff;
+}
+
+header{
+	width: 100%;
+
+}
+header h1{
+	margin:  1em auto;
+	text-align: center;
+	font-size: 40px;
+}
+#wrapper{
+	width: 70%;
+	margin-left: 15%;
+	margin-right: 15%;
+	padding: 10px;
+}
+form{
+	font-size: 25px;
+
+}
+legend{
+	font-size: 35px;
+	text-align: center;
+	width: 50%;
+	border:  4px solid black;
+	padding: 10px;
+	background: silver;
+}
+fieldset{
+	border: 2px solid black;
+	margin: 0 auto;
+	background: seashell;
+}
+label{
+	
+}
